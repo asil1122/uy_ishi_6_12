@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$znIGs87kRB0TaHDRHE6sIOFuz4MV7xeK1w5jZoQ4m1l7DhkRCuDhu",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "asilbekabdurashidov000@gmail.com",
+      "password": "$2a$10$FDFbwtNqStwrDdgbV3tfo.AN53P3P2yzqcF/rMQBBrcMerW8wn1Hu",
+      "name": "Asil",
+      "id": 2
+    },
+    {
+      "email": "asa@gmail.com",
+      "password": "$2a$10$RTcn3ijpTxchdUI25URcwOHq8so.S94cTmk7iok1IWN9PVNdYiRI2",
+      "name": "Abror",
+      "id": 3
+    },
+    {
+      "email": "shox@gmail.com",
+      "password": "$2a$10$MJ3yocRKlh1i5qjEGACG4eiAgB.yzam.y4zXmnNtgYTKtKOoxt3vy",
+      "name": "Shox",
+      "id": 4
+    },
+    {
+      "email": "as@gmail.com",
+      "password": "$2a$10$sXRWn2WNYf46ESiwyIIuu.cJnFMCzpKAjo8LJ4g5YA62cmhSiDGKa",
+      "name": "Abror",
+      "id": 5
+    },
+    {
+      "email": "ab@gmail.com",
+      "password": "$2a$10$p4RzwzN2VwCfoFe/w6KKIetTbstKnx9lHBGIGIsIAu3sHGnxG.qu.",
+      "name": "Asil",
+      "id": 6
+    }
+  ],
+  "client": [],
+  "qarz": [
+    {}
+  ]
+}
